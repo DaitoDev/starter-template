@@ -34,7 +34,6 @@ h1, h2, h3, h4, h5, h6{
 p{
     max-width: 75ch; /* This can be adjusted to fit your design preference*/
     text-wrap: pretty;
-    margin-bottom: 2rem;
 }
 
 /* Removes default list-styles if your UL or OL has a role of 'list' */
